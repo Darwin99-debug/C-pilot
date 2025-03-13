@@ -36,7 +36,7 @@ Le projet étant subdivisé en plusieurs équipes, il est crucial de structurer 
 
 
   <!-- include diagram as image -->
- ![Synchronisation des Données](https://drive.google.com/file/d/1k0CmNrfJS1DsGp0-jfshGhAH0f0-KffP/view?usp=sharing)
+ ![Synchronisation des Données](synchronisation-teamWork_sharePoint-UQAM.png)
 
     
 
